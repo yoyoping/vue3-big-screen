@@ -1,4 +1,4 @@
-# 大屏使用vue3 + ts + vite开发
+# 基于Vue3 + TS + Vite开发的一个大屏自适应的模板，使用swiper7实现轮播功能, 引入了echarts图表
 
 ## Project setup
 ```
